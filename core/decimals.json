@@ -1,1 +1,7 @@
-
+{
+  "decimals": 9,
+  "smallest_unit_name": "lamport-based",
+  "display_format": "standard",
+  "precision_model": "fixed",
+  "rounding_mode": "half-up"
+}
