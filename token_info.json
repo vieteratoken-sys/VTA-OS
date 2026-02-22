@@ -1,0 +1,12 @@
+{
+  "mint": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+  "name": "VTA",
+  "symbol": "VTA",
+  "decimals": 9,
+  "total_supply": "5000000",
+  "authority_status": {
+    "mint_authority": "revoked",
+    "freeze_authority": "revoked"
+  },
+  "network": "solana-mainnet-beta"
+}
