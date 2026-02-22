@@ -1,0 +1,8 @@
+{
+  "consensus_type": "Proof of History + Tower BFT",
+  "finality_time_seconds": 2,
+  "fork_protection": true,
+  "double_spend_protection": true,
+  "network_security_level": "high",
+  "protocol_governance_integration": false
+}
