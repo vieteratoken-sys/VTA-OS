@@ -1,0 +1,9 @@
+{
+  "runtime_engine": "Solana Runtime",
+  "compute_model": "parallel-execution",
+  "max_compute_units": 200000,
+  "fee_model": "lamports-based",
+  "transaction_finality": "instant",
+  "replay_protection": true,
+  "network_latency": "low"
+}
