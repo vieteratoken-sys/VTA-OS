@@ -1,0 +1,12 @@
+{
+  "mint_address": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+  "network": "solana-mainnet-beta",
+  "total_supply": "DETECTED_ON_CHAIN",  
+  "decimals": "DETECTED_ON_CHAIN",
+  "mint_authority": "ON_CHAIN_STATUS",
+  "freeze_authority": "ON_CHAIN_STATUS",
+  "holder_count": "ON_CHAIN_STAT",
+  "explorer_link": "https://explorer.solana.com/address/99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G?cluster=mainnet-beta",
+  "metadata_present": "true_or_false",
+  "metadata_uri": "IF_SET_IN_METADATA_EXTENSION"
+}
