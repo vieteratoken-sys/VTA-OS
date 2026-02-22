@@ -1,0 +1,7 @@
+{
+  "token_type": "utility",
+  "kyc_required": false,
+  "jurisdiction": "global",
+  "regulatory_status": "non-security",
+  "legal_structure": "decentralized-digital-asset"
+}
