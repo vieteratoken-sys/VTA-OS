@@ -1,0 +1,8 @@
+{
+  "transfer_fee_enabled": false,
+  "fee_basis_points": 0,
+  "burn_fee": false,
+  "protocol_fee": 0,
+  "network_fee": "solana-standard",
+  "fee_collector": null
+}
