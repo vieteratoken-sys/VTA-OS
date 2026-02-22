@@ -1,0 +1,10 @@
+{
+  "deployment_id": "vta-mainnet-genesis",
+  "mint_address": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+  "network": "solana-mainnet-beta",
+  "environment": "production",
+  "deployment_date": "2026-01-01T00:00:00Z",
+  "deployment_status": "completed",
+  "upgradeable": false,
+  "authority_revoked": true
+}
