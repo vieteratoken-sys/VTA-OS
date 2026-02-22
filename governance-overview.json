@@ -1,0 +1,6 @@
+{
+  "dao_enabled": false,
+  "future_governance_plan": true,
+  "voting_token": "VTA",
+  "proposal_threshold": 10000
+}
