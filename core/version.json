@@ -1,1 +1,7 @@
-
+{
+  "core_version": "1.0.0",
+  "protocol_version": "1.0.0",
+  "release_stage": "genesis",
+  "api_version": "v1",
+  "last_update": "2026-02-01"
+}
