@@ -1,0 +1,8 @@
+{
+  "transfer_restrictions": false,
+  "blacklist_enabled": false,
+  "whitelist_enabled": false,
+  "max_transfer_limit": null,
+  "min_transfer_limit": 0,
+  "kyc_required": false
+}
