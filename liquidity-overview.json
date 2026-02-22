@@ -1,0 +1,7 @@
+{
+  "liquidity_added": true,
+  "primary_dex": "Raydium",
+  "liquidity_locked": true,
+  "lock_duration_days": 365,
+  "rug_risk": "low"
+}
