@@ -1,0 +1,10 @@
+{
+  "primary_use_cases": [
+    "online-payments",
+    "ecosystem-integration",
+    "web3-services"
+  ],
+  "nft_integration": false,
+  "staking_module": false,
+  "burn_mechanism": true
+}
