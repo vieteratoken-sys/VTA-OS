@@ -1,0 +1,6 @@
+{
+  "burn_enabled": true,
+  "automatic_burn": false,
+  "manual_burn_only": true,
+  "burn_tracking_enabled": true
+}
