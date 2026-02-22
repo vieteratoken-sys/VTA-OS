@@ -1,0 +1,8 @@
+{
+  "rpc_endpoint": "https://api.mainnet-beta.solana.com",
+  "websocket_endpoint": "wss://api.mainnet-beta.solana.com",
+  "cluster": "mainnet-beta",
+  "commitment_level": "finalized",
+  "max_retries": 3,
+  "timeout_ms": 30000
+}
