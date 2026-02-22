@@ -1,0 +1,9 @@
+{
+  "manifest_id": "vta-root-001",
+  "project": "Vietera Token",
+  "symbol": "VTA",
+  "mint": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+  "network": "solana-mainnet-beta",
+  "repository_version": "1.0.0",
+  "structure_integrity": "valid"
+}
