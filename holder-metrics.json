@@ -1,0 +1,6 @@
+{
+  "total_holders_estimate": "dynamic",
+  "top_holder_percentage": "dynamic",
+  "distribution_model": "on-chain",
+  "whale_threshold": 100000
+}
