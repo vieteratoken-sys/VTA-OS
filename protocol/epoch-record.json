@@ -1,0 +1,7 @@
+{
+  "epoch_tracking_enabled": true,
+  "current_epoch": "AUTO_FETCHED",
+  "epoch_duration_slots": 432000,
+  "inflation_rate": 0,
+  "staking_enabled": false
+}
