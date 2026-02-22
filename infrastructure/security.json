@@ -1,0 +1,9 @@
+{
+  "mint_authority_revoked": true,
+  "freeze_authority_disabled": true,
+  "reentrancy_risk": false,
+  "inflation_risk": false,
+  "upgrade_risk": false,
+  "rug_pull_risk": "low",
+  "security_score": 95
+}
