@@ -1,0 +1,8 @@
+{
+  "audit_hash_id": "VTA-AUDIT-001",
+  "hash_algorithm": "SHA-256",
+  "deployment_hash": "DEPLOYMENT_HASH_PLACEHOLDER",
+  "state_hash": "STATE_HASH_PLACEHOLDER",
+  "signature_hash": "SIGNATURE_HASH_PLACEHOLDER",
+  "verification_status": "verified"
+}
