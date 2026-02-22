@@ -1,0 +1,11 @@
+{
+  "global_state": {
+    "mint_address": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+    "total_supply": 5000000,
+    "mint_authority": "revoked",
+    "freeze_authority": "disabled"
+  },
+  "supply_locked": true,
+  "state_hash": "STATE_HASH_VTA_MAINNET",
+  "last_state_update": "2026-02-01T00:00:00Z"
+}
