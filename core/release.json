@@ -1,1 +1,12 @@
-
+{
+  "release_name": "VTA Genesis Release",
+  "release_date": "2026-01-01",
+  "release_notes": [
+    "Initial token deployment",
+    "Mint authority revoked",
+    "Freeze authority disabled",
+    "Fixed supply confirmed"
+  ],
+  "deployment_status": "completed",
+  "deployment_environment": "mainnet-beta"
+}
