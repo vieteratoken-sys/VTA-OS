@@ -1,1 +1,11 @@
-
+{
+  "token_registry_id": "vta-mainnet-001",
+  "network": "mainnet-beta",
+  "registry_version": "1.0.0",
+  "indexed": true,
+  "explorer_verified": false,
+  "external_registries": [
+    "solscan",
+    "solana-explorer"
+  ]
+}
