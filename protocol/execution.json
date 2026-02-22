@@ -1,0 +1,12 @@
+{
+  "execution_type": "on-chain",
+  "program_dependency": "spl-token-2022",
+  "instruction_set": [
+    "transfer",
+    "burn",
+    "approve"
+  ],
+  "mint_instruction_disabled": true,
+  "freeze_instruction_disabled": true,
+  "security_validation": "signature-required"
+}
