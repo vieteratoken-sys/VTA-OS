@@ -1,0 +1,7 @@
+{
+  "current_environment": "production",
+  "dev_enabled": false,
+  "testnet_enabled": false,
+  "mainnet_enabled": true,
+  "cluster": "mainnet-beta"
+}
