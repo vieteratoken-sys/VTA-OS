@@ -1,0 +1,10 @@
+{
+  "architecture_type": "layered-token-protocol",
+  "layers": [
+    "core",
+    "protocol",
+    "infrastructure"
+  ],
+  "execution_environment": "Solana L1",
+  "upgradeable": false
+}
