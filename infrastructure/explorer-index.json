@@ -1,0 +1,9 @@
+{
+  "mint_address": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+  "explorers": {
+    "solana_explorer": "https://explorer.solana.com/address/99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G?cluster=mainnet-beta",
+    "solscan": "https://solscan.io/token/99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+    "solanafm": "https://solana.fm/address/99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G"
+  },
+  "indexed": true
+}
