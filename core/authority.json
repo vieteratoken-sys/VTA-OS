@@ -1,1 +1,12 @@
-
+{
+  "mint_authority": {
+    "status": "revoked",
+    "revoked": true
+  },
+  "freeze_authority": {
+    "status": "disabled",
+    "revoked": true
+  },
+  "authority_model": "immutable",
+  "security_level": "high"
+}
