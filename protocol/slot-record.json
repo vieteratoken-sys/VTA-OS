@@ -1,0 +1,7 @@
+{
+  "slot_tracking_enabled": true,
+  "latest_slot_recorded": "AUTO_FETCHED",
+  "epoch_tracking": true,
+  "slot_hash_verification": false,
+  "snapshot_slot": null
+}
