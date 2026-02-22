@@ -1,0 +1,6 @@
+{
+  "treasury_wallet": "TREASURY_WALLET_PLACEHOLDER",
+  "multi_sig": false,
+  "fund_management_model": "controlled",
+  "allocation_policy": "fixed-percentage"
+}
