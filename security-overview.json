@@ -1,0 +1,7 @@
+{
+  "authority_revoked": true,
+  "freeze_disabled": true,
+  "upgradeable_contract": false,
+  "risk_score": 95,
+  "threat_monitoring": true
+}
