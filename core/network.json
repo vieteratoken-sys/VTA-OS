@@ -1,1 +1,9 @@
 
+{
+  "blockchain": "Solana",
+  "cluster": "mainnet-beta",
+  "rpc_endpoint": "https://api.mainnet-beta.solana.com",
+  "explorer_url": "https://explorer.solana.com",
+  "chain_id": 101,
+  "consensus": "Proof of History"
+}
