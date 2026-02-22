@@ -1,0 +1,7 @@
+{
+  "network": "solana-mainnet-beta",
+  "consensus_model": "Proof of History",
+  "validator_count_estimate": 1500,
+  "active_cluster": "mainnet-beta",
+  "delegation_supported": true
+}
