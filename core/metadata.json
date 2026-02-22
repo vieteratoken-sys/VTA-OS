@@ -1,1 +1,13 @@
 
+{
+  "name": "Vietera Token",
+  "symbol": "VTA",
+  "description": "VTA is a fixed-supply digital asset on Solana built for ecosystem and payment integration.",
+ 
+  "external_url": "https://github.com/vieteratoken-sys/VTA-OS",
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Standard", "value": "Token-2022" },
+    { "trait_type": "Supply", "value": "Fixed" }
+  ]
+}
