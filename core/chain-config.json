@@ -1,1 +1,8 @@
-
+{
+  "environment": "production",
+  "multi_cluster_support": false,
+  "devnet_enabled": false,
+  "testnet_enabled": false,
+  "mainnet_enabled": true,
+  "network_stability": "stable"
+}
