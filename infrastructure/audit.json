@@ -1,0 +1,8 @@
+{
+  "audit_status": "not_required",
+  "audit_type": "token-level",
+  "smart_contract_custom_logic": false,
+  "external_audit_firm": null,
+  "audit_report_url": null,
+  "risk_level": "low"
+}
