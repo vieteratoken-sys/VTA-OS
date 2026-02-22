@@ -1,0 +1,6 @@
+{
+  "proof_enabled": false,
+  "proof_algorithm": "sha256",
+  "proof_records": [],
+  "verification_required": false
+}
