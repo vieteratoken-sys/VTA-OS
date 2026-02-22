@@ -1,0 +1,13 @@
+{
+  "wallet_support": [
+    "Phantom",
+    "Solflare"
+  ],
+  "dex_support": [
+    "Raydium",
+    "Jupiter"
+  ],
+  "cex_target": [
+    "future-listing"
+  ]
+}
