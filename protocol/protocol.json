@@ -1,0 +1,10 @@
+{
+  "protocol_name": "VTA Core Protocol",
+  "protocol_id": "vta-protocol-mainnet",
+  "version": "1.0.0",
+  "network": "solana-mainnet-beta",
+  "token_standard": "SPL Token-2022",
+  "execution_layer": "Solana L1",
+  "status": "active",
+  "upgradeable": false
+}
