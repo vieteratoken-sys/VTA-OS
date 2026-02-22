@@ -1,1 +1,9 @@
-
+{
+  "standard": "SPL Token-2022",
+  "extensions_enabled": false,
+  "transfer_fee_extension": false,
+  "metadata_pointer_extension": false,
+  "confidential_transfer": false,
+  "group_pointer": false,
+  "interest_bearing": false
+}
