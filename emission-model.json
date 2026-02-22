@@ -1,0 +1,7 @@
+{
+  "inflation_enabled": false,
+  "max_supply": 5000000,
+  "mintable": false,
+  "burnable": true,
+  "emission_rate": 0
+}
