@@ -1,1 +1,7 @@
-
+{
+  "checksum_algorithm": "SHA-256",
+  "project_checksum": "CHECKSUM_PROJECT",
+  "core_folder_checksum": "CHECKSUM_CORE_FOLDER",
+  "last_verified": "2026-02-01T00:00:00Z",
+  "status": "valid"
+}
