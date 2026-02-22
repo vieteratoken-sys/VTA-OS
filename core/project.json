@@ -1,1 +1,13 @@
-
+{
+  "project_name": "Vietera Token",
+  "symbol": "VTA",
+  "repository": "https://github.com/vieteratoken-sys/VTA-OS",
+  "description": "Vietera Token (VTA) is a Solana Token-2022 digital asset built for payment and ecosystem integration.",
+  "blockchain": "Solana",
+  "network": "mainnet-beta",
+  "standard": "Token-2022",
+  "launch_year": 2026,
+  "status": "active",
+  "category": "digital-asset",
+  "visibility": "public"
+}
