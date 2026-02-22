@@ -1,0 +1,7 @@
+{
+  "deployment_signature": "DEPLOYMENT_SIGNATURE_HASH",
+  "authority_revoke_signature": "AUTHORITY_REVOKE_SIGNATURE_HASH",
+  "liquidity_signature": "LIQUIDITY_SIGNATURE_HASH",
+  "signature_algorithm": "ed25519",
+  "signature_verified": true
+}
