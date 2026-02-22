@@ -1,1 +1,7 @@
-
+{
+  "mint_address": "99hLf1BHfHKf2eUQbnwcaURf3kBqeqhAAdgV84jfiu8G",
+  "mint_authority_status": "revoked",
+  "freeze_authority_status": "disabled",
+  "mint_transaction_hash": "ADD_MINT_TX_HASH",
+  "mint_timestamp": "2026-01-01T00:00:00Z"
+}
